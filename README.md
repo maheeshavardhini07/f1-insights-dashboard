@@ -1,9 +1,5 @@
-# f1-insights-dashboard
-A full-stack dashboard for real-time and historical Formula 1 race analytics, built using Vue.js, Spring Boot, Node.js, PostgreSQL, and Redis.
-
 # F1 Insights Dashboard
-
-A full-stack web application for real-time Formula 1 data analytics.
+A full-stack dashboard for real-time and historical Formula 1 race analytics, built using Vue.js, Spring Boot, Node.js, PostgreSQL, and Redis.
 
 ## Services
 - `frontend`: Vue.js dashboard
